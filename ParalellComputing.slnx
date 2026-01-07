@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CountdownRace/CountdownRace.csproj" />
+  <Project Path="ParalellComputing/ParalellComputing.csproj" />
+  <Project Path="PingPong/PingPong.csproj" />
+  <Project Path="RaceConditions/RaceConditions.csproj" />
+  <Project Path="RaceConditions2/RaceConditions2.csproj" />
+</Solution>
