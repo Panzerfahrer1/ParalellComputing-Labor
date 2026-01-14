@@ -7,4 +7,5 @@
   <Project Path="PingPong/PingPong.csproj" />
   <Project Path="RaceConditions/RaceConditions.csproj" />
   <Project Path="RaceConditions2/RaceConditions2.csproj" />
+  <Project Path="Semaphore/Semaphore.csproj" Id="29c47560-d3ed-41cc-9462-a5506e4ffeba" />
 </Solution>
