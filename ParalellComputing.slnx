@@ -2,6 +2,7 @@
   <Project Path="CountdownRace/CountdownRace.csproj" />
   <Project Path="Dead Lock/Dead Lock.csproj" Id="beabdf13-61b3-483c-a2b1-09494eaf6aac" />
   <Project Path="Deadlock Simulation/Deadlock Simulation.csproj" Id="7f339d72-0b69-4ee1-af0e-7c7f7a128bf8" />
+  <Project Path="MutexTutorial/MutexTutorial.csproj" Id="1d4bba63-aa8e-4c30-9f80-a77cbc20c46c" />
   <Project Path="ParalellComputing/ParalellComputing.csproj" />
   <Project Path="PingPong/PingPong.csproj" />
   <Project Path="RaceConditions/RaceConditions.csproj" />
