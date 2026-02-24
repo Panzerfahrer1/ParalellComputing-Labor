@@ -1,15 +1,22 @@
 <Solution>
+  <Project Path="AsyncTutorial/AsyncTutorial.csproj" Id="65c94a81-0ca6-464a-815f-339230a46b3c" />
+  <Project Path="ConcurrentCollectionsTutorial/ConcurrentCollectionsTutorial.csproj" Id="bc8750f3-d684-4aa9-8fe9-a4d5247aaf73" />
   <Project Path="CountdownRace/CountdownRace.csproj" />
   <Project Path="Dead Lock/Dead Lock.csproj" Id="beabdf13-61b3-483c-a2b1-09494eaf6aac" />
   <Project Path="Deadlock Simulation/Deadlock Simulation.csproj" Id="7f339d72-0b69-4ee1-af0e-7c7f7a128bf8" />
+  <Project Path="Fastfood-Restaurant/Fastfood-Restaurant.csproj" Id="6bdc6f9e-0e40-49c3-9fbb-cb067a49327d" />
+  <Project Path="MiniProduktion/MiniProduktion.csproj" Id="3e24a1b4-71a4-41a7-a1da-cad79be26a0e" />
+  <Project Path="MutexInterprozess-Synchronisation/MutexInterprozess-Synchronisation.csproj" Id="236f8e14-7ecd-4376-9b29-f6f74efadf54" />
   <Project Path="MutexTutorial/MutexTutorial.csproj" Id="1d4bba63-aa8e-4c30-9f80-a77cbc20c46c" />
   <Project Path="ParalellComputing/ParalellComputing.csproj" />
   <Project Path="PingPong/PingPong.csproj" />
   <Project Path="ProducerAndConsumerSemaphore/ProducerAndConsumerSemaphore.csproj" Id="7a3c024e-39a2-4124-8728-1789a3ecad48" />
+  <Project Path="ProducerConsumerWebshop/ProducerConsumerWebshop.csproj" Id="b14685d8-89f9-48a8-9793-86d5fb38428e" />
   <Project Path="Race Condition SW/Race Condition SW.csproj" Id="bdf865b9-e1d5-41bd-992b-d0678123861c" />
   <Project Path="RaceConditions/RaceConditions.csproj" />
   <Project Path="RaceConditions2/RaceConditions2.csproj" />
   <Project Path="Semaphore/Semaphore.csproj" Id="29c47560-d3ed-41cc-9462-a5506e4ffeba" />
   <Project Path="SemaphoreDruckerraum/SemaphoreDruckerraum.csproj" Id="1627c43e-3356-4d43-8058-2a76492558fd" />
   <Project Path="SemaphoreMaschine/SemaphoreMaschine.csproj" Id="b53a1c33-1397-444c-825f-197bcf90d88b" />
+  <Project Path="Sensors/Sensors.csproj" Id="950f792b-e5d6-4830-8f8c-340690f60d96" />
 </Solution>
